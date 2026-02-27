@@ -21,6 +21,7 @@
 - 定制联系：https://t.me/martsccbot
 - 博客：https://yufengduxing.xyz/
 - Github：https://github.com/yufengduxing
+- 视频教程：https://youtu.be/f7t_FyhjTiw?si=enXV7RvoArPRWBgn
 
 ##
 
